@@ -1,65 +1,69 @@
 .container {
-    padding: 15px;
-    text-align: center;
-    border-style: solid;
-    width: 78%;
-    margin: auto;
-    margin-top: 20px;
+  padding: 15px;
+  text-align: center;
+  border-style: solid;
+  width: 78%;
+  margin: auto;
+  margin-top: 20px;
 }
 
 .logo-container {
-    text-align: left;
-    background-color: gray;
+  text-align: left;
+  background-color: #b9b5b2;
 }
 
 #logo {
-    padding: 15px;
-    height: 120px;
-    width: 115px;
+  padding: 15px;
+  height: 120px;
+  width: 115px;
+}
+
+#logo:hover {
+  opacity: 90%;
 }
 
 .sections {
-    display: flex;
-    justify-content: center;
-    gap: 2%;
-    margin: 20px 0px 0px 0px;
-    padding: 2px;
+  display: flex;
+  justify-content: center;
+  gap: 2%;
+  margin: 20px 0px 0px 0px;
+  padding: 2px;
 }
 
 .section {
-    border-style: dotted;
-    width: 29%;
-    padding: 10px;
+  border-style: dotted;
+  width: 29%;
+  padding: 10px;
 }
 
 .horizontal {
-    width: 98%;
+  width: 98%;
 }
 
 .para {
-    text-align: left;
-    overflow: scroll;
-    height: 425px;
+  text-align: left;
+  overflow: scroll;
+  height: 425px;
 }
 
 table {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
-table, th, td {
-    border:1px solid black;
-    text-align: left;
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: left;
 }
 
 .copyright {
-    margin-bottom: 13px;
-    margin-top: 13px;
-    padding: 15px;
-    background-color: #faebd6;
+  margin-bottom: 13px;
+  margin-top: 13px;
+  padding: 15px;
+  background-color: #faebd6;
 }
 
 .heading {
-    text-align: center;
+  text-align: center;
 }
-
-
