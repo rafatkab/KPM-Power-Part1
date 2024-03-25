@@ -1,1 +1,1 @@
-# KPM-Power-Part1
+# lorem-ipsum-part1
